@@ -1,1 +1,2 @@
-docker compose up
+
+run ---> docker compose up
